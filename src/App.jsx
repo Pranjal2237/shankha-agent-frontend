@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import ChatWindow from './components/Chat/ChatWindow';
 import DebugPanel from './components/Debug/DebugPanel';
-import Login from './components/Auth/Login';
+import Login from './components/auth/Login';
 import './App.css';
 
 function App() {
